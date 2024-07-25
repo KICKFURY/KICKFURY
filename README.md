@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Byron Guzman</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guzmancito569" alt="guzmancito569" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KICKFURY" alt="KICKFURY" /></a> </p>
 
-- 🔭 I’m currently working on [I am currently creating a copy of Youtube using the Swift language](https://github.com/Guzmancito569/YouTubeClone)
+- 🔭 I’m currently working on [I am currently creating a copy of Youtube using the Swift language](https://github.com/KICKFURY/YouTubeClone)
 
 - 🌱 I’m currently learning **🌱 I'm currently learning Delegations Pattern, Dependency Injection Pattern, Singleton Pattern, Observer Pattern, MVP and MVVM architecture pattern.**
 
