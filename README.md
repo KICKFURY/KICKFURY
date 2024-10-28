@@ -20,7 +20,7 @@ Pattern, Observer Pattern, MVP and MVVM architecture pattern.**
 </div>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
         alt="javascript logo" />
     <img width="12" />
@@ -60,11 +60,15 @@ Pattern, Observer Pattern, MVP and MVVM architecture pattern.**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
         height="30" alt="microsoftsqlserver logo" />
 </div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KICKFURY&theme=default"
+<center>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KICKFURY&theme=default"
         alt="KICKFURY" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KICKFURY&show_icons=true&locale=en"
+</center>
+<center>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KICKFURY&show_icons=true&locale=en"
         alt="KICKFURY" />
 </p>
+</center>
 
 <center>
     <p><img align="center"
