@@ -61,12 +61,12 @@ Pattern, Observer Pattern, MVP and MVVM architecture pattern.**
         height="30" alt="microsoftsqlserver logo" />
 </div>
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KICKFURY&theme=default"
-        alt="KICKFURY" /></p>
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=KICKFURY&theme=dracula&hide_border=false"
+            alt="Status graph" />
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KICKFURY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-        height="200" alt="stats graph" />
+        height="180" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KICKFURY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-        height="200" alt="languages graph" />
+        height="180" alt="languages graph" />
 </div>
