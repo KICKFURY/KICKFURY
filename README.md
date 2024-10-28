@@ -12,7 +12,6 @@
   <a href="https://fb.com/bayron.guzman.569" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <img align="right" height="150" src="https://th.bing.com/th/id/R.88572d3b3fdc759607987bf79822ee0b?rik=Or3DxBCVZOzdYg&pid=ImgRaw&r=0"  />
 </div>
 </p>
 <h3 align="left">Languages and Tools:</h3>
